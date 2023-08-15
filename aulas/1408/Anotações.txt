@@ -1,0 +1,36 @@
+Classificações por departamentalização
+
+-Territorial
+-Por clientes
+-Por projetos
+-Por processos
+
+Projeto 1
+
+Ambev
+.Funcional
+.Linha staff
+.territoral
+.Por clientes
+.Por projetos (matricial)
+
+::Ambev::
+1. Conselho Fiscal
+2. Conselho de administração
+3. Comitê de Governança
+4. Comitê de Operações e Finanças
+5. Comitê de governância
+6. Comitê de Gente
+7. Diretoria executiva
+
+Financeiro
+Comercial
+Gente e gestão
+Industrial
+TI
+Relações corporativas
+Suprimentos
+Logística
+Jurídica
+Vendas 
+marketing
